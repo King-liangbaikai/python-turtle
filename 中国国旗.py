@@ -1,3 +1,4 @@
+#中国国旗
 import turtle
 
 turtle.bgcolor("red")
