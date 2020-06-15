@@ -5,6 +5,7 @@ turtle.bgcolor("red")
 turtle.fillcolor("yellow")
 turtle.color('yellow')
 turtle.speed(2)
+
 #主星
 turtle.begin_fill()
 turtle.up()
